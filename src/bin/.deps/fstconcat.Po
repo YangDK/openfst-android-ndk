@@ -1,0 +1,1 @@
+fstconcat.o: fstconcat.cc

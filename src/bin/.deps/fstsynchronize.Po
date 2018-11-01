@@ -1,0 +1,1 @@
+fstsynchronize.o: fstsynchronize.cc
